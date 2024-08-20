@@ -1,6 +1,3 @@
-//PortifolioAcademico
-//portifolio com o objertivo de mostrar meus conhecimentos e experiência na area da tecnologia, tanto como estudante, aprendiz e estagiario.
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -53,7 +50,6 @@
         <h2>Sobre Mim</h2>
         <p>Olá! Meu nome é Luis. Tenho 19 anos e gosto muito de programaçao. No momento estou cursando TADS(Analise e Desenvolvimento de Sistemas).</p>
     </section>
-
     <section id="professional-experience">
         <h2>Experiência Profissional</h2>
         <ul>
@@ -65,7 +61,6 @@
             <!-- Adicione mais experiências conforme necessário -->
         </ul>
     </section>
-
     <section id="education">
         <h2>Formação Acadêmica</h2>
         <ul>
